@@ -48,12 +48,14 @@ Each entry is categorized into one of five user behavior classes, ranging from l
    git clone https://github.com/heliohenriquehfilho/cellphone-usage-dashboard.git
    cd cellphone-usage-dashboard
 2.**Install Dependencies:
-  '''bash
+   ```bash
   pip install -r requirements.txt
+  ```
 3. **Add the Dateset
 4. **Run The Aplication
-  '''bash
+  ```bash
   streamlit run main.py
+  ```
 
 ## 📊 Dashboard Overview
 
